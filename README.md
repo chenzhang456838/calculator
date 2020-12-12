@@ -2,6 +2,7 @@
 This is a project based on JAVA and Antrl4
 
 /*****    requirement   *******/
+
 Hi Sherry, 
 
 Can you do the following small project at home?
@@ -19,6 +20,7 @@ Calculator>
 Then, I can input any any math expression and press enter, it will call the compiler, and generate java code, and then yields the result in the shell.
 
 Please try it and after you finish, please get back to me. 
+
 /*********************************/
 
 
